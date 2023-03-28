@@ -3,6 +3,8 @@
 ![image](https://user-images.githubusercontent.com/101622691/228320169-67660ced-737b-42ef-9e68-77074246986c.png)
 
 
+## Data Source : https://8weeksqlchallenge.com/case-study-1/
+
 The above dataset is all about Japanese food restaurant which is owned by Danny. So, the owner have few question which she/he wanted to know about her customers, food and etc. The below are the few questions which we have to answer.
 
 # Case Study Questions
